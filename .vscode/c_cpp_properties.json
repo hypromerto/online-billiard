@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BilardoEditor Editor Win64 Development (Bilardo)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

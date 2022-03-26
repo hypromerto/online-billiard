@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\Bilardo.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\Bilardo.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\Bilardo.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoHUD.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoHUD.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoProjectile.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\aslan\\\\Desktop\\\\Unreal\\\\Bilardo\\\\Source\\\\Bilardo\\\\BilardoProjectile.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\aslan\\Desktop\\Unreal\\Bilardo\\.vscode\\compileCommands_Bilardo\\Bilardo.210.rsp\"",
+		"directory": "D:\\Program Files\\UE_4.27\\Engine\\Source"
+	}
+]
